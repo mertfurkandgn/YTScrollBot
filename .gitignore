@@ -1,0 +1,21 @@
+# Python cache dosyaları
+__pycache__/
+*.pyc
+
+# ChromeDriver dosyası (eğer projede varsa)
+chromedriver
+
+# Python sanal ortam klasörü
+venv/
+.env/
+
+# IDE dosyaları (VSCode, PyCharm vs.)
+.vscode/
+.idea/
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
